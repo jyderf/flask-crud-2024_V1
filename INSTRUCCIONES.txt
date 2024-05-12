@@ -1,0 +1,14 @@
+CON PYTHON INSTALADO EJECUTAR
+
+INSTALAR VIRTUALIZACIÓN Y REQUERIMIENTOS
+python -m venv env
+env\Scripts\activate
+pip install -requirements.txt
+
+LANZAR APP
+flask run
+
+o  
+
+python app.py
+
